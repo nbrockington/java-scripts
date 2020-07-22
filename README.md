@@ -1,7 +1,3 @@
-# java-scripts
-
-Various java projects.
-
 # MyPets game
 Tamagotchi-like terminal-based game.
 
