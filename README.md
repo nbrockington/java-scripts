@@ -1,3 +1,7 @@
+# java-scripts
+
+Various java projects.
+
 # pets-game
 Tamagotchi-like terminal-based game.
 
